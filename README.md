@@ -4,6 +4,17 @@ E-commerce app for an assignment, inspired by this : https://minimalist-e-commer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Prerequisities
+Node.js: Install Node.js, which includes npm (Node Package Manager). You can download it from the official Node.js website (https://nodejs.org) and follow the installation instructions for your operating system.
+Code Editor: Choose a code editor or integrated development environment (IDE) to work with your React project. Some popular options include Visual Studio Code, Atom, Sublime Text, or WebStorm.
+
+Once you have these prerequisites set up, you can proceed with the following steps:
+1. Clone or download the React project from a Git repository or obtain the project files from another source.
+2. Open a terminal or command prompt and navigate to the project's root directory.
+3. Install project dependencies by running the follwing command: npm install. This will install all the necessary packages and dependencies specified in the project's package.json file.
+
+After these three steps your PC is ready to host the React-Project.
+Install project dependencies by running the following command:
 ## Available Scripts
 
 In the project directory, you can run:
