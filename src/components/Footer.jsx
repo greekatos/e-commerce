@@ -118,7 +118,7 @@ const Footer = () => {
       </footer>
       <div className='h-28 bg-[#3390ce] flex justify-center items-center'>
         <div className='text-center text-white font-bold'>
-          <p>Design by Eleanna</p>
+          <p>Design by Dimos</p>
         </div>
       </div>
       {showSnackbar && (
